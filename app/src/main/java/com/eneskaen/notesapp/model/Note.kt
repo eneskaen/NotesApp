@@ -14,5 +14,5 @@ data class Note(
 
     val noteTitle : String,
 
-    val NoteBody : String
+    val noteBody : String
 ):Parcelable
