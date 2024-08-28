@@ -60,6 +60,7 @@ dependencies {
     kapt("androidx.room:room-compiler:$room_version")
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+    implementation("androidx.room:room-ktx:2.6.1")
 
     //Navigation
     val nav_version = "2.7.7"
